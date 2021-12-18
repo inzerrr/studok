@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Подключаем файл для полfffffученияa соединения к базе данных (PhpMyAdmin, MySQL)
+ * Подключаем файл для полfffffученияaffff соединения к базе данных (PhpMyAdmin, MySQL)
  */
 
 require_once 'config/connect.php';
