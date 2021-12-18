@@ -4,7 +4,7 @@
 
 
 /*
- * Подключаем файл для получения соединения к базе данных (PhpMyAdmin, MySQL)
+ * Подключаем файл для полученияffffff соединения к базе данных (PhpMyAdmin, MySQL)
  */
 
 require_once '../config/connect.php';
